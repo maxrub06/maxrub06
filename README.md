@@ -1,6 +1,6 @@
 # Hej, jag är Max
 
-Gymnasieingenjörsstudent inom informationsteknik @TE4 Academy
+Gymnasieingenjörsstudent inom informationsteknik
 
 # Just nu jobbar jag med
 
