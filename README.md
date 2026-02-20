@@ -25,7 +25,7 @@ Gymnasieingenjörsstudent inom informationsteknik
 * TE4 Kalender - gratis skolschema med inloggningsfunktion, räknare, att göra, memory mm
 * Teknikförmedlingen - specialiserad arbetsförmedling som använder searchengine API för att hämta information om arbetstillfällen
 * Teknikexperten - webbshop för fiktivt teknikföretag
-* 
+
 ## Lär mig just nu
 
 * Asynkron JavaScript (Promises, async/await)
