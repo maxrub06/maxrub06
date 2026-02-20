@@ -6,6 +6,7 @@ Gymnasieingenjörsstudent inom informationsteknik @TE4 Academy
 
 * Att lära mig C#, modern JavaScript (ES6+) och asynkron programmering
 * Teamprojekt med Git workflow och code reviews
+* Koddokumentation 
 * Utveckling av rapportsystem till Eplicta
 
 ## Tech stack
