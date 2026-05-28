@@ -1,6 +1,6 @@
 # Hej, jag är Max
 
-Praktikant på Eplicta och gymnasieingenjörsstudent inom informationsteknik @TE4 Academy 
+Fd. praktikant på Eplicta och gymnasieingenjörsstudent inom informationsteknik @TE4 Academy 
 
 ## Just nu jobbar jag med
 
