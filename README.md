@@ -1,12 +1,11 @@
 # Hej, jag är Max
 
-Fd. praktikant på Eplicta och gymnasieingenjörsstudent inom informationsteknik @TE4 Academy 
+Gymnasieingenjör inom informationsteknik @TE4 Academy 
 
 ## Just nu jobbar jag med
 
-* Att lära mig C#, modern JavaScript (ES6+) och asynkron programmering
+* Att bli bättre på C#, modern JavaScript (ES6+) och asynkron programmering
 * Teamprojekt med Git workflow och code reviews
-* Utveckling av rapportsystem till Eplicta
 
 ## Tech stack
 
@@ -25,6 +24,9 @@ Fd. praktikant på Eplicta och gymnasieingenjörsstudent inom informationsteknik
 * TE4 Kalender - gratis skolschema med inloggningsfunktion, räknare, att göra, memory mm
 * Teknikförmedlingen - specialiserad arbetsförmedling som använder searchengine API för att hämta information om arbetstillfällen
 * Teknikexperten - webbshop för fiktivt teknikföretag
+* ArchiveReport - komponent som används för att generera information om metadata
+* AipConserver - komponent som används för att omvandla SIP till AIP
+* DipConserver - komponent som används för att omvandla AIP till DIP
 
 ## Lär mig just nu
 
